@@ -1,6 +1,6 @@
 # youtube_search
 
-Python module for searching for youtube videos to avoid using their heavily rate-limited API
+Python module (updated from [#OG42](https://github.com/joetats/youtube_search/pull/42) for searching for youtube videos to avoid using their heavily rate-limited API
 
 To avoid using the API, this uses the form on the youtube homepage and scrapes the resulting page.
 
